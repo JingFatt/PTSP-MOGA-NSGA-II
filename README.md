@@ -48,14 +48,14 @@ This repository contains an implementation of a Multi-Objective Genetic Algorith
 
 
 ---
-
+```text
 PTSP-MOGA-NSGA-II/
 ├── vrp8/                      # VRP-8 dataset (coordinates & demands)
 ├── results/                   # Saved populations, logbooks, and plots
 ├── main.py                    # Entry point for train/eval
 ├── requirements.txt           # Python dependencies
 └── README.md                  # Project overview
-
+```
 ---
 ## 📈 Results
 
